@@ -1,0 +1,34 @@
+From 9702297bea12d2c95e0f5e37f2bfbc08c2136336 Mon Sep 17 00:00:00 2001
+From: jbf-insidesherpa <54832297+jbf-insidesherpa@users.noreply.github.com>
+Date: Wed, 20 Nov 2019 09:22:35 +0800
+Subject: [PATCH] Update README (setupv7 + mchangev2)
+
+---
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/README.md b/README.md
+index 0c78a34..5bc0e28 100755
+--- a/README.md
++++ b/README.md
+@@ -29,7 +29,7 @@ Implement JP Morgan Chase’s Perspective open source code in preparation for da
+ </ol>
+ 
+ <h2 id="installation" >Set up / Installation</h2>
+-<p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m2_v6.pdf">follow the setup here</a></p>
++<p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m2_v7.pdf">follow the setup here</a></p>
+ 
+ 
+ <h2>How to Run</h2>
+@@ -58,7 +58,7 @@ Open http://localhost:3000 to view the app in the browser. The page will reload
+ 
+ 
+ <h2>How to fix the code to meet the objectives</h2>
+-<p>To make the changes necessary to complete the objectives of this task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/making_changes_m2_v1.pdf">follow this guide</a>.</p>
++<p>To make the changes necessary to complete the objectives of this task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/making_changes_m2_v2.pdf">follow this guide</a>.</p>
+ 
+ <h2>How to submit your work</h2>
+ <p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/88AisH7iuw3L5N5ig">JPM Module 2 Page</a>.</p>
+-- 
+2.19.1.windows.1
+
